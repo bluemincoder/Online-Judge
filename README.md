@@ -20,7 +20,7 @@ This API Runs Code submissions in a secure environment and Passes Verdicts based
 
  Run the following Command to clone the repository:
  ```
- git clone https://github.com/vkm41101/OJ.git
+https://github.com/bluemincoder/Online-Judge.git
  ```
 
  ### Run the Server
